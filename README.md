@@ -13,6 +13,6 @@ import os
 
 ```
 
-# Keep in mind that you can change your speed test to whatever is advertised by your internet provider
+Keep in mind that you can change your speed test to whatever is advertised by your internet provider
 
-# Please let me know if you have any other questions or concerns, and I will be more than happy to help you
+Please let me know if you have any other questions or concerns, and I will be more than happy to help you
