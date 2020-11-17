@@ -32,8 +32,8 @@ def my_internet_speed():
     download_speed = int(speedtester.download() / 1000000)
     upload_speed = int(speedtester.upload() / 1000000)
 
-    print("Download Speed: " + str(download_speed) + "Mbps")
-    print("Upload Speed: " + str(upload_speed) + "Mbps")
+    print("My Download Speed is: " + str(download_speed) + "Mbps")
+    print("My Upload Speed is: " + str(upload_speed) + "Mbps")
     print("\n")
 
 # # Uncomment code to create triaged messaging
